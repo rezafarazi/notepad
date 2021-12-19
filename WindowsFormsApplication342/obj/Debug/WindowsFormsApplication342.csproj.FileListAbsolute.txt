@@ -1,0 +1,68 @@
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+C:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+D:\Users\reza\Documents\Visual Studio 2012\Projects\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form2.resources
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form2.resources
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+C:\Users\gameing-windows\Desktop\WindowsFormsApplication342\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+F:\me word\New folder\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+F:\me word\New folder\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+F:\me word\New folder\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form2.resources
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+F:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+E:\me word\New folder\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+E:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+E:\me word\New folder\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+E:\me word\notepad+++\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+E:\me word\notepad+++\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+E:\me word\notepad+++\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+E:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+E:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+E:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form2.resources
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+E:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+F:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
+F:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe
+F:\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.pdb
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csprojResolveAssemblyReference.cache
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form1.resources
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Form2.resources
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.Properties.Resources.resources
+F:\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.csproj.GenerateResource.Cache
+E:\erza\me word\f\WindowsFormsApplication342\bin\Debug\WindowsFormsApplication342.exe.config
+E:\erza\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.exe
+E:\erza\me word\f\WindowsFormsApplication342\obj\Debug\WindowsFormsApplication342.pdb
